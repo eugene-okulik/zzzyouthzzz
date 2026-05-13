@@ -23,6 +23,3 @@ my_dict['set'].add(60)
 my_dict['set'].remove(20)
 
 print(my_dict)
-
-
-
